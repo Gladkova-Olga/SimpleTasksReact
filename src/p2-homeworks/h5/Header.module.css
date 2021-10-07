@@ -1,0 +1,19 @@
+.navbarBlock {
+    padding: 10px 20px;
+    position: relative;
+    left: -200px;
+    transition: left .2s linear;
+}
+
+.navbarBlock:hover {
+    left: 0px;
+}
+
+.item a {
+    color: royalblue;
+}
+
+.item a.activeLink {
+    color: steelblue;
+    font-weight: bold;
+}

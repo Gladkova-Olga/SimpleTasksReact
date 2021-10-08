@@ -1,0 +1,8 @@
+.item {
+    display: flex;
+    width: 160px;
+    justify-content: space-between;
+}
+.block{
+    margin: 10px;
+}

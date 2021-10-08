@@ -1,0 +1,23 @@
+.select {
+    width: 100px;
+    background-color: palegreen;
+    appearance: none;
+    cursor: pointer;
+    text-align: center;
+    border: 1px solid;
+    margin: 10px 0;
+}
+
+.select:focus {
+    outline: none;
+    border: cadetblue 2px solid;
+}
+
+.option {
+    color: blue;
+    background-color: palegreen;
+}
+
+.option:checked {
+    background-color: chartreuse;
+}

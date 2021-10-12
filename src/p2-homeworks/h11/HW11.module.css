@@ -1,0 +1,5 @@
+.DoubleRangeContainer {
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+}
